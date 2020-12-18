@@ -1,2 +1,2 @@
 # BatchOS-batman
-BatchOS Package Manager
+Eventually will be the BatchOS Package Manager
