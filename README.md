@@ -1,3 +1,3 @@
 # DOSe-batman
 
-(Will eventually be) the [DOSe](https://github.com/Institute-of-Hacking/DOSe) package manager.
+This is a package maager repository for DOSe. Within this repository is a set of tools, programs, and commands that can be installed from within the root account using the command batman -install "Program Name Here"
